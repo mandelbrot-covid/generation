@@ -9,9 +9,24 @@ The entire collection can be found on the OpenSeau marketplace : https://opensea
 
 | Version | Last Changelog | Ready? |
 | ------- | -------------- | ------ |
-| V1.0.0 | First release version | ✅
+| V1.0.0 | First release version | Amost
 
 ## ⌨ How to compile the project
+This project was built and tested with MinGW on a Windows 10 environnment. Use the makefile in order to generate the mandelbrot-covid.exe file.
+
+## 🦠 How to reproduce a variant
+If a configuration.txt file is placed in the same folder as the mandelbrot-covid.exe file, its coordinate are used to start the navigation.
+A configuration.txt file is included for each variant in this project.
 
 ## 🕹 Keyboard layout
+| Keyboard | Action | 
+| ------- | -------------- |
+| q | move left|
+| d | move right|
+| z | move up|
+| s | move down|
+| + | zoom in|
+| - | zoom out|
+| ⬅⬆➡⬇ | Change generation parameters|
+| r | Reset generation parameters|
 
