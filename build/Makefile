@@ -13,7 +13,7 @@ LDFLAGS = -L..\lib -lmingw32 -lSDL2main -lSDL2 -mwindows  -Wl,--dynamicbase -Wl,
 
 
 # Names of the executables to be generated
-EXEC=julia
+EXEC=mandelbrot-covid
 
 # Path of source files
 SRC_DIR=../srcs/
