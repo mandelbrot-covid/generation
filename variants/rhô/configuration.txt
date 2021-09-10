@@ -1,0 +1,1 @@
+precision : 80, hauteur : 1080, largeur : 1920, fullscreen : 1, indiceGeneration : 0, x : -0.192000, y : 0.000000, Re_c : -0.430000, Im_c : 0.590000, zoom : 9000.000000.
